@@ -1,0 +1,1 @@
+# nvm-noinstall-window
