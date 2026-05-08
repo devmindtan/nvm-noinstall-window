@@ -1,0 +1,17 @@
+{
+    "terminal.integrated.env.windows": {
+        "NVM_HOME": "${workspaceFolder}\\nvm",
+        "NVM_SYMLINK": "${workspaceFolder}\\nodejs",
+        "Path": "${workspaceFolder}\\nvm\\v22.10.0;${workspaceFolder}\\nvm;${env:Path}"
+    },
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "args": [
+                "-ExecutionPolicy",
+                "Bypass"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell"
+}

@@ -1,0 +1,4 @@
+root: C:\Users\US\react-project\nvm
+path: C:\Users\US\react-project\nodejs
+arch: 64
+proxy: none
